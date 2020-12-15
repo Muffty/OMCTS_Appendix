@@ -1,1 +1,3 @@
-# OMCTS_Appendix
+# Ordinal MCTS Appendix
+
+Experiment results will be available here, soon.
